@@ -1,5 +1,5 @@
 <p align="center">
-  <img width: 100% src="https://snipboard.io/xqCB4f.jpg"/>
+  <img width: 100% src="https://github.com/jrome3920/jrome3920/blob/main/images/Hi,%20I%20am%20Jerome%20A%20Web%20Developer%20in%20Making.png?raw=true"/>
 </p>
 
 **`Digital Alchemist: Transforming Ideas into Interactive Experiences`**
