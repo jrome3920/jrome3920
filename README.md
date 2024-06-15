@@ -57,13 +57,13 @@
       </br>
        <strong>MySql</strong>
     </td>
-     <td align="center" height="110" width="110">
+  </tr>
+  <tr>
+         <td align="center" height="110" width="110">
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       </br>
        <strong>React</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="110" width="110">
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
       </br>
@@ -94,11 +94,13 @@
       </br>
        <strong>Illustrator</strong>
     </td> 
-    <td align="center" height="110" width="110">
+      <td align="center" height="110" width="110">
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
       </br>
        <strong>Adobe XD</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="110" width="110">
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
       </br>
