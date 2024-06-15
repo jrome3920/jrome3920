@@ -17,93 +17,93 @@
 
 <table>
   <tr>
-    <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     </br>
       <strong>Java</strong>
     </td>
-    <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+    <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
       </br>
       <strong>Html</strong>
     </td>
-     <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
+     <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
        </br>
        <strong>Css</strong>
     </td>
-     <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+     <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
        </br>
        <strong>Php</strong>
     </td>
-     <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+     <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
        </br>
        <strong>Php</strong>
     </td>
-    <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+    <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
       </br>
        <strong>C#</strong>
     </td>
-    <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+    <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
       </br>
        <strong>C++</strong>
     </td>
   </tr>
   <tr>
-        <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+        <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
       </br>
        <strong>MySql</strong>
     </td>
-         <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+         <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       </br>
        <strong>React</strong>
     </td>
-    <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
       </br>
        <strong>Bootstrap</strong>
     </td>
-        <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
+        <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
           </br>
        <strong>React Bootstrap</strong>
     </td>
-     <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" />
+     <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" />
        </br>
        <strong>Visual Basic</strong>
     </td>
-    <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
       </br>
        <strong>VS Code</strong>
     </td>
-     <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+     <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
        </br>
        <strong>Photoshop</strong>
     </td>
 
   </tr>
   <tr>
-        <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+        <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
       </br>
        <strong>Illustrator</strong>
     </td> 
-      <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
+      <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
       </br>
        <strong>Adobe XD</strong>
     </td>
-    <td align="center" height="110" width="110">
-      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <td align="center" height="123" width="123">
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
       </br>
        <strong>Figma</strong>
     </td>
