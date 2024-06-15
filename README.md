@@ -52,13 +52,13 @@
       </br>
        <strong>C++</strong>
     </td>
-    <td align="center" height="110" width="110">
+  </tr>
+  <tr>
+        <td align="center" height="110" width="110">
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
       </br>
        <strong>MySql</strong>
     </td>
-  </tr>
-  <tr>
          <td align="center" height="110" width="110">
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       </br>
@@ -89,7 +89,10 @@
        </br>
        <strong>Photoshop</strong>
     </td>
-    <td align="center" height="110" width="110">
+
+  </tr>
+  <tr>
+        <td align="center" height="110" width="110">
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
       </br>
        <strong>Illustrator</strong>
@@ -99,8 +102,6 @@
       </br>
        <strong>Adobe XD</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="110" width="110">
       <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
       </br>
