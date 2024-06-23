@@ -35,7 +35,7 @@
      <td align="center" height="123" width="123">
       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
        </br>
-       <strong>Php</strong>
+       <strong>JavaScript</strong>
     </td>
      <td align="center" height="123" width="123">
       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
